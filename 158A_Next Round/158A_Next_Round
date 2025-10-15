@@ -1,0 +1,10 @@
+n, k = map(int, input().split())
+scr = list(map(int, input().split()))
+
+x = scr[k - 1]
+count = 0
+for scr in scr:
+    if scr >= x and scr > 0:
+        count += 1
+
+print(count)
