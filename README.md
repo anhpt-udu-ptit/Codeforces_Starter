@@ -10,7 +10,7 @@ Xin chào! Mình là **Phạm Tuấn Anh**, sinh viên năm nhất ngành Cử n
 
 Để dễ dàng quản lý và tra cứu, mình tổ chức các bài giải theo một quy tắc thống nhất:
 
-* **Tên file:** Mỗi file sẽ chứa cả đề bài và lời giải mà mình đã tìm ra. Tên file sẽ được để dưới dạng **[contest ID]_[Tên bài toán]**
+* **Tên file:** Mỗi file sẽ chứa cả đề bài và lời giải mà mình đã tìm ra. Tên file sẽ được để dưới dạng **[contest ID]_[Tên bài toán]**.
 
 ## 💻 Công nghệ sử dụng
 
