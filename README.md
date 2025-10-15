@@ -14,17 +14,19 @@ Xin chào! Mình là **Phạm Tuấn Anh**, sinh viên năm nhất ngành Cử n
 
 ## 💻 Công nghệ sử dụng
 
-* **Ngôn ngữ chính:** Python
-* **Môi trường:** Visual Studio Code
-* **Hệ thống quản lý phiên bản:** Git & GitHub
+* **Ngôn ngữ lập trình:** Python
+* **Công cụ phát triển:** Visual Studio Code
+* **Hệ thống kiểm soát phiên bản:** Git và GitHub
+* **Nền tảng lập trình thi đấu:** Codeforces
 
 ## 📬 Kết nối với mình
 
 
-* **GitHub:** [anhpt-hub](https://github.com/anhpt-hub)
-* **Codeforces:** [anhpt.udu.ptit](https://codeforces.com/profile/anhpt.udu.ptit)
-* **LinkedIn:** [Anh Phạm Tuấn](https://www.linkedin.com/in/anhpt-udu-ptit/)
-* **Facebook:** [Tuan Anh Pham](https://www.facebook.com/tunanh.26)
+[![github](https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/anhpt-hub)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anhpt-udu-ptit/)
+[![Facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook)](https://www.facebook.com/tunanh.26)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhpt.udu.ptit@gmail.com)
+
 
 ---
 
@@ -32,4 +34,4 @@ Xin chào! Mình là **Phạm Tuấn Anh**, sinh viên năm nhất ngành Cử n
 ![GitHub last commit](https://img.shields.io/github/last-commit/anhpt-hub/Codeforces_Starter)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/anhpt-hub/Codeforces_Starter)
 
-Cảm ơn bạn đã ghé thăm!
+**Cảm ơn bạn đã ghé thăm!**
